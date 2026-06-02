@@ -1,0 +1,6 @@
+{
+  "name": "Snake Game & Music Player",
+  "description": "An interactive classic Snake Game combined with a neon-aesthetic Music Player featuring generative synthwave tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
